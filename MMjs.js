@@ -1,0 +1,1 @@
+console.log('Jokes will be here')
